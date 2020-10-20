@@ -1,6 +1,6 @@
 a Vẽ đồ thị call :
 
-![image](LeQuangPhuoc/images/Chapter7.4-3a.jpg)
+![image](./images/Chapter7.4-3a.jpg)
 
 b Đường đi theo mỗi test:
   * t1: [f1, f3, f5, f6]
