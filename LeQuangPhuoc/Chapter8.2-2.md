@@ -1,6 +1,6 @@
 a Vẽ biểu đồ K: 
 
-![image](LeQuangPhuoc/images/Chapter8.2-2a.jpg)
+![image](./images/Chapter8.2-2a.jpg)
 
 b Biểu thức DNF mô tả toàn bộ ô có nhiều hơn 1 định nghĩa:
       
