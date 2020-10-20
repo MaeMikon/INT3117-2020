@@ -1,5 +1,6 @@
 a Vẽ đồ thị CFG cho phương thức ```fmtRewrap()```: 
-![image](LeQuangPhuoc/images/Chapter7.3-6a.jpg)
+
+![image](./images/Chapter7.3-6a.jpg)
 
 b Đường đi kiểm thử: [1, 2, 19]
 
