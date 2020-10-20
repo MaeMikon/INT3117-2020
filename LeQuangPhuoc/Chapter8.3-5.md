@@ -25,7 +25,7 @@ public static void checkItExpand (boolean a, boolean b, boolean c)
 ```
 
 b 
-|             |     a    |    b   |    c  | a && (b||c) |
+|             |     a    |    b   |    c  | a ∧ (b v c) |
 | ----------- | ---------| -------| ------| ------------|
 |      1      |     T    |    T   |    T  |       T     |
 |      2      |     T    |    T   |    F  |       T     |
