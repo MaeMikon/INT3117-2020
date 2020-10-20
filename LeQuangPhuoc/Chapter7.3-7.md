@@ -1,5 +1,6 @@
 a Vẽ đồ thị CFG cho phương thức ```printPrimes()```:
-![image](LeQuangPhuoc/images/Chapter7.3-7a.jpg)
+
+![image](./images/Chapter7.3-7a.jpg)
 
 b Lỗi đơn giản ```while (numPrimes < 3)```
 
